@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center">
+Hi 👋, I'm Le Hoai Nam
+</h2>
 
-<!--
-**lehoainamvn/lehoainamvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Software Engineer | Java Backend Developer | Building AI-powered Web Applications
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final-year Information Technology Student
+- 💻 Interested in Backend Development, System Design & AI Integration
+- 📧 Contact: **naml75803@gmail.com**
+
+### Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,postgres,mongodb,docker,git,github,postman,linux,redis,rabbitmq" />
+</p>
